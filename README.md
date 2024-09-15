@@ -26,19 +26,9 @@ Sou Matheus, um desenvolvedor apaixonado por tecnologia e programação. Aqui vo
   <img align="center" alt="Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 </div>
 
-## Projetos Destacados
-
-### [Nome do Projeto](URL do Projeto)
-Descrição breve do projeto, suas funcionalidades principais e tecnologias usadas.
-
-### [Outro Projeto](URL do Projeto)
-Descrição resumida do projeto, seus objetivos e o que o torna interessante.
-
 ## Entre em Contato
 
-- **Email:** seu.email@exemplo.com
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- **Twitter:** [@SeuTwitter](https://twitter.com/seu-twitter)
+- **Email:** Mateusp7441@gmail.com
 
 ## Vamos Conversar!
 
