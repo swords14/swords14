@@ -1,8 +1,8 @@
-## Olá! 👋
+# Olá! 👋
 
-Eu sou Swords14, um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará meus projetos e contribuições em diversas áreas.
+Sou Matheus, um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará meus projetos, habilidades e contribuições para a comunidade de código aberto.
 
-### Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/swords14">
@@ -11,9 +11,9 @@ Eu sou Swords14, um desenvolvedor apaixonado por tecnologia e programação. Aqu
   </a>
 </div>
 
-### Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -26,4 +26,21 @@ Eu sou Swords14, um desenvolvedor apaixonado por tecnologia e programação. Aqu
   <img align="center" alt="Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 </div>
 
+## Projetos Destacados
+
+### [Nome do Projeto](URL do Projeto)
+Descrição breve do projeto, suas funcionalidades principais e tecnologias usadas.
+
+### [Outro Projeto](URL do Projeto)
+Descrição resumida do projeto, seus objetivos e o que o torna interessante.
+
+## Entre em Contato
+
+- **Email:** seu.email@exemplo.com
+- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- **Twitter:** [@SeuTwitter](https://twitter.com/seu-twitter)
+
+## Vamos Conversar!
+
+Sinta-se à vontade para me contatar para colaborações, feedbacks ou apenas para um papo sobre tecnologia! Estou sempre aberto a novas oportunidades e conexões.
 
