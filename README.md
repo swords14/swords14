@@ -28,9 +28,7 @@ Apenas pelo dinheiro as vezes ver alguem chorar
 
 ## Entre em Contato
 
-- **Email:** Mateusp7441@gmail.com
-
+swords14@proton.me
 ## Vamos Conversar!
 
-Sinta-se à vontade para me contatar para colaborações, feedbacks ou apenas para um papo sobre tecnologia! Estou sempre aberto a novas oportunidades e conexões.
-
+Qualquer coisa dm no proton
