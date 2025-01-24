@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Apenas pelo dinheiro as vezes ver alguem chorar
+Apenas pelo dinheiro e as vezes ver alguem chorar
 
 ## Estatísticas do GitHub
 
