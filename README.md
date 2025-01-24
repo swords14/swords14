@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Matheus, um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará meus projetos, habilidades e contribuições para a comunidade de código aberto.
+Apenas pelo dinheiro as vezes ver alguem chorar
 
 ## Estatísticas do GitHub
 
