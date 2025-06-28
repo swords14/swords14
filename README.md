@@ -1,6 +1,5 @@
 # Olá! 👋
 
-Apenas pelo dinheiro e as vezes ver alguem chorar
 
 ## Estatísticas do GitHub
 
