@@ -41,7 +41,7 @@ Desenvolvedor **Full Stack** apaixonado por tecnologia, sempre buscando criar so
 ## 💬 Entre em Contato
 
 - Email: swords14@proton.me
-- Twitter: [@DaKassadin](https://twitter.com/DaKassadin)
+- Twitter:
 
 ---
 
